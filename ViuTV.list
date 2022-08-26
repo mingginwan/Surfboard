@@ -7,7 +7,6 @@
 # USER-AGENT: 2
 # TOTAL: 16
 DOMAIN-SUFFIX,bootstrapcdn.com
-#DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,jwpcdn.com
